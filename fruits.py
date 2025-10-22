@@ -1,0 +1,5 @@
+fruits=("apple","banana","cherry","grapes","apple")
+apple_count=fruits.count("apple")
+index_banana=fruits.index("banana")
+print(fruits.count("apple"))
+print(fruits.index("banana"))
